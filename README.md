@@ -1,7 +1,8 @@
 # Table of Contents
 1. [Animated CSS Boxes](#animated-css-boxes)
 2. [Getting Started](#getting-started)
-3. [Acknowledgements](#Acknowledgments)
+3. [Built With](#built-with)
+3. [Acknowledgements](#Acknowledgements)
 
 ## Animated CSS Boxes
 
@@ -41,7 +42,7 @@ HTML, CSS
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details -->
 
-## Acknowledgments
+## Acknowledgements
 (References/Credits)  
 • [ReadMe Sample Templates](https://github.com/s15n/README.md)  
 • [Original Codepan Link](https://codepen.io/joshnh/pen/FCJGI)
