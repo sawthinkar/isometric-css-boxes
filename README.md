@@ -11,7 +11,7 @@ Pure CSS Perspective Boxes (Animated) v3 - with Controls by [Joshua Hibbert](htt
 ## Getting Started
 
 • Nothing to get started here.  
-• Go to [original Codepan link](https://codepen.io/joshnh/pen/FCJGI) to give kudos to Joshua and check out more of their [cool stuff](https://codepen.io/joshnh/pens/public).  
+• Go to [original Codepen link](https://codepen.io/joshnh/pen/FCJGI) to give kudos to Joshua and check out more of their [cool stuff](https://codepen.io/joshnh/pens/public).  
 • I am just testing this code to see how it works in Github pages. I came across this while checking out [isometric](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) design trend.  
 
 ![KaiOS Simulator](/screenshots/isometric_css_boxes.png)
@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgements
 (References/Credits)  
 • [ReadMe Sample Templates](https://github.com/s15n/README.md)  
-• [Original Codepan Link](https://codepen.io/joshnh/pen/FCJGI)
+• [Original Codepen Link](https://codepen.io/joshnh/pen/FCJGI)
 
 ---
 
