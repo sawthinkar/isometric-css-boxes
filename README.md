@@ -44,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgements
 (References/Credits)  
-• [ReadMe Sample Templates](https://github.com/s15n/README.md)  
+• [ReadMe Sample Templates](https://github.com/sawthinkar/README.md)  
 • [Original Codepen Link](https://codepen.io/joshnh/pen/FCJGI)
 
 ---
